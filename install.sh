@@ -31,8 +31,8 @@ $HOME/.composer/vendor/bin/valet install
 mkdir $HOME/Sites
 
 # Create sites subdirectories
-mkdir $HOME/Sites/blade-ui-kit
-mkdir $HOME/Sites/laravel
+mkdir $HOME/Sites/granite
+mkdir $HOME/Sites/env
 
 # Clone Github repositories
 ./clone.sh
