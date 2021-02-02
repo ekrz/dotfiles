@@ -11,6 +11,7 @@ git clone git@github.com:ekrz/portfolio.git $ENV/portfolio
 git clone git@github.com:ekrz/INIT.git $ENV/INIT
 git clone git@github.com:ekrz/INIT-docs.git $ENV/INIT-DOCS
 git clone git@github.com:ekrz/2018-portfolio.git $ENV/2018-portfolio
+git clone git@github.com:ekrz/portfolio-2021.git $ENV/portfolio-2021
 
 #Granite
 git clone git@bitbucket.org:granitedigital-bitbucket/init.git $GRANITE/INIT
